@@ -1,0 +1,3 @@
+[submodule "book-system-cloud-config-service"]
+	path = book-system-cloud-config-service
+	url = git@github.com:ogorifuwe/book-system-cloud-config-service.git
